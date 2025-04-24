@@ -1,16 +1,53 @@
+# 👋 Hello, I'm Krishan Kumar Sah!
 
-
-# 👋 Hello, I'm Krishan Kumar Sah!  
+---
 
 ### 🚀 About Me  
-- 2nd year BE CSE student at Chitkara University.  
-- Passionate about coding and continuously learning new technologies.  
-- Skilled in **Python, C, C++, HTML, CSS, JavaScript, and SQL**.  
+🎓 2nd year B.E. CSE student at **Chitkara University**  
+💡 Passionate about coding and on a mission to master the tech world  
+🛠️ Skilled in **Python, C, C++, HTML, CSS, JavaScript, and SQL**  
+🌱 Constantly learning and evolving, one line of code at a time
 
-### 📚 My Projects  
-- Check out my [Reservia : Restaurant Booking Site](https://reservia-vkax.onrender.com) and [Addorah : Buy Crochets](https://addorah15.vercel.app).  
+---
 
-### 📫 Let's Connect!  
-- Email: [chiranjiv.shah783@gmail.com](mailto:chiranjiv.shah783@gmail.com) | [ksah02269@gmail.com](mailto:ksah02269@gmail.com)  
-- LinkedIn : [krishn13](https://www.linkedin.in/krishn13)
-- LeetCode : [krishn13](https://www.leetcode.com/u/krishn13)
+### 💼 Projects That Speak for Me  
+Here are a couple of projects that reflect my journey:
+
+- 🌐 [**Reservia**](https://reservia-vkax.onrender.com) – A restaurant booking platform for foodies and planners alike.  
+- 🧶 [**Addorah**](https://addorah15.vercel.app) – A cozy corner for all crochet lovers to shop handmade goodness.
+
+---
+
+### 📫 Let's Connect  
+
+📧 Email:  
+[chiranjiv.shah783@gmail.com](mailto:chiranjiv.shah783@gmail.com) | [ksah02269@gmail.com](mailto:ksah02269@gmail.com)
+
+🌐 Socials:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishn13)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_krixh13)  
+[![X](https://img.shields.io/badge/X-000000?logo=twitter&logoColor=white)](https://twitter.com/KrishanSah13)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/krishn13)
+
+---
+
+### 📊 GitHub Stats
+
+![Krishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishhn13&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishhn13&layout=compact&theme=tokyonight)
+
+---
+
+### 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=krishhn13&theme=tokyonight)
+
+---
+
+### 🔥 Visitor Count  
+![Visitor Badge](https://komarev.com/ghpvc/?username=krishhn13&label=Profile%20Views&color=blue&style=flat)
+
+---
+
+<p align="center"><b>“Code is poetry, and I write to be remembered.”</b></p>
+
