@@ -5,7 +5,7 @@
 ### 🚀 About Me  
 🎓 2nd year B.E. CSE student at **Chitkara University**  
 💡 Passionate about coding and on a mission to master the tech world  
-🛠️ Skilled in **Python, C, C++, HTML, CSS, JavaScript, and SQL**  
+🛠️ Skilled in **Python, C, C++, Java, HTML, CSS, JavaScript, and SQL**  
 🌱 Constantly learning and evolving, one line of code at a time
 
 ---
@@ -30,7 +30,8 @@ Here are a couple of projects that reflect my journey:
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/krishn13)
 
 ---
-
+<div align = center>
+  
 ### 📊 GitHub Stats
 
 ![Krishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishhn13&show_icons=true&theme=tokyonight)  
@@ -50,4 +51,4 @@ Here are a couple of projects that reflect my journey:
 ---
 
 <p align="center"><b>“Code is poetry, and I write to be remembered.”</b></p>
-
+</div>
