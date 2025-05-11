@@ -24,8 +24,7 @@ Here are a couple of projects that reflect my journey:
 [chiranjiv.shah783@gmail.com](mailto:chiranjiv.shah783@gmail.com) | [ksah02269@gmail.com](mailto:ksah02269@gmail.com)
 
 🌐 Socials:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishn13)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_krixh13)  
-[![X](https://img.shields.io/badge/X-000000?logo=twitter&logoColor=white)](https://twitter.com/KrishanSah13)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishn13)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_krixh13)  [![X](https://img.shields.io/badge/X-000000?logo=twitter&logoColor=white)](https://twitter.com/KrishanSah13)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/krishn13)
 
 ---
