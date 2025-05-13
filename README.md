@@ -14,7 +14,7 @@
 Here are a couple of projects that reflect my journey:
 
 - 🌐 [**Reservia**](https://reservia-vkax.onrender.com) – A restaurant booking platform for foodies and planners alike.  
-- 🧶 [**Addorah**](https://addorah15.vercel.app) – A cozy corner for all crochet lovers to shop handmade goodness.
+
 
 ---
 
