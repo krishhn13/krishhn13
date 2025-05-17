@@ -13,7 +13,8 @@
 ### 💼 Projects That Speak for Me  
 Here are a couple of projects that reflect my journey:
 
-- 🌐 [**Reservia**](https://reservia-vkax.onrender.com) – A restaurant booking platform for foodies and planners alike.  
+- 🌐 [**Reservia**](https://reservia-vkax.onrender.com) – A restaurant booking platform for foodies and planners alike.
+- 🔍 [**Mini Search Engine**](https://github.com/drikshathakur786/MiniSearchEngine/) - A Mini Search Engine made by using JAVA & DSA. 
 
 
 ---
