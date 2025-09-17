@@ -22,7 +22,7 @@ Here are a couple of projects that reflect my journey:
 ### 📫 Let's Connect  
 
 📧 Email:  
-[chiranjiv.shah783@gmail.com](mailto:chiranjiv.shah783@gmail.com) | [ksah02269@gmail.com](mailto:ksah02269@gmail.com)
+[chiranjiv.shah783@gmail.com](mailto:chiranjiv.shah783@gmail.com) | [krishankumarsah13@gmail.com](mailto:krishankumarsah13@gmail.com)
 
 🌐 Socials:  
 <div align =center>
