@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Krishan Kumar Sah !!!
+ko# 👋 Hello, I'm Krishan Kumar Sah !!!
 
 ---
 
@@ -53,6 +53,6 @@ Here are a couple of projects that reflect my journey:
 <p align="center"><b>“Code is poetry, and I write to be remembered.”</b></p>
 </div>
 
-<p align="center"><b>“”</b></p>
+<p align="center"><b>“Do follow”</b></p>
 </div>
 
