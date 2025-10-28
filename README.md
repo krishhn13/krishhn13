@@ -54,5 +54,5 @@ Here are a couple of projects that reflect my journey:
 </div>
 
 <p align="center"><b>Do follow</b></p>
-</div>
+
 
