@@ -7,7 +7,6 @@
 💡 Passionate about coding and on a mission to master the tech world  
 🛠️ Skilled in **Python, C, C++, Java, HTML, CSS, JavaScript, and SQL**  
 🌱 Constantly learning and evolving, one line of code at a time
-
 ---
 
 ### 💼 Projects That Speak for Me  
