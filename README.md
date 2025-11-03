@@ -1,6 +1,5 @@
 # 👋 Hello, I'm Krishan Kumar Sah !!!
 ---
-
 ### 🚀 About Me  
 🎓 3rd year B.E. CSE student at **Chitkara University** 
 💡 Passionate about coding and on a mission to master the tech world  
