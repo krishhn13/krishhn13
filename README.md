@@ -3,6 +3,7 @@
 ---
 ### 🚀 About Me  
 🎓 3rd year B.E. CSE student at **Chitkara University** 
+--
 💡 Passionate about coding and on a mission to master the tech world  
 🛠️ Skilled in **Python, C, C++, Java, HTML, CSS, JavaScript, and SQL**  
 🌱 Constantly learning and evolving, one line of code at a time
