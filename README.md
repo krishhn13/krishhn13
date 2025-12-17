@@ -1,5 +1,4 @@
 # 👋 Hello, I'm Krishan Kumar Sah !!!
-
 ### 🚀 About Me  
 🎓 3rd year B.E. CSE student at **Chitkara University** 
 --
