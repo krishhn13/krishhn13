@@ -1,58 +1,100 @@
-# 👋 Hello, I'm Krishan Kumar Sah !!!
-### 🚀 About Me  
-🎓 3rd year B.E. CSE student at **Chitkara University** 
---
-💡 Passionate about coding and on a mission to master the tech world 
---
-🛠️ Skilled in **Python, C, C++, Java, HTML, CSS, JavaScript, and SQL**  
---
-🌱 Constantly learning and evolving, one line of code at a time
----
+# Krishan Kumar Sah
 
-### 💼 Projects That Speak for Me  
-Here are a couple of projects that reflect my journey:
+🌐 **Portfolio:** https://krishan13.vercel.app  
 
-- 🌐 [**Reservia**](https://reservia-vkax.onrender.com) – A restaurant booking platform for foodies and planners alike.
-- 🔍 [**Mini Search Engine**](https://github.com/drikshathakur786/MiniSearchEngine/) - A Mini Search Engine made by using JAVA & DSA. 
----
-
-### 📫 Let's Connect  
-<div align =center>
-  
-📧 Email:  
-[chiranjiv.shah783@gmail.com](mailto:chiranjiv.shah783@gmail.com) | [krishankumarsah13@gmail.com](mailto:krishankumarsah13@gmail.com)
-
-</div>
-
-🌐 Socials:  
-<div align =center>
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishn13)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_krixh13)  [![X](https://img.shields.io/badge/X-000000?logo=twitter&logoColor=white)](https://twitter.com/KrishanSah13)  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/krishn13)
-</div>
----
-<div align = center>
-  
-### 📊 GitHub Stats
-
-![Krishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishhn13&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishhn13&layout=compact&theme=tokyonight)
+Software Engineering Undergraduate | Backend & DSA Focus  
+Chitkara University | Class of 2027  
 
 ---
 
-### 🏆 GitHub Trophies
+## About
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=krishhn13&theme=tokyonight)
+I am a Computer Science undergraduate with a strong foundation in  
+**Data Structures, Algorithms, and Backend Development**.
+
+I focus on building **clean, scalable, and production-ready systems**,  
+prioritizing correctness, maintainability, and long-term impact over shortcuts.
 
 ---
 
-### 🔥 Visitor Count  
-![Visitor Badge](https://komarev.com/ghpvc/?username=krishhn13&label=Profile%20Views&color=blue&style=flat)
+## Technical Skills
+
+**Programming Languages**  
+Python, C, C++, Java, JavaScript, SQL  
+
+**Core Computer Science**  
+Data Structures & Algorithms, Object-Oriented Programming,  
+DBMS, Operating Systems (Foundations)
+
+**Web & Tools**  
+HTML, CSS, REST APIs, Git, GitHub
 
 ---
 
-<p align="center"><b>“Code is poetry, and I write to be remembered.”</b></p>
-</div>
+## Projects
 
+### Reservia — Restaurant Booking Platform
+- Designed and developed a full-stack restaurant reservation system  
+- Implemented structured backend logic and user-friendly workflows  
+- Deployed and maintained a live production application  
 
+🔗 Live: https://reservia-vkax.onrender.com  
 
+---
 
+### Mini Search Engine (Java + DSA)
+- Built a mini search engine using **Java and core data structures**  
+- Implemented indexing and searching mechanisms for efficient retrieval  
+- Focused on algorithmic correctness and performance  
+
+🔗 GitHub: https://github.com/drikshathakur786/MiniSearchEngine/
+
+---
+
+## GitHub Activity & Consistency
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=krishhn13&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" 
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=krishhn13&theme=tokyonight" 
+    alt="GitHub Streak Stats"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishhn13&layout=compact&theme=tokyonight&cache_seconds=1800" 
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## Achievements & Milestones
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=krishhn13&theme=tokyonight&no-frame=true&column=4" 
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+## Contact & Profiles
+
+- 🌐 Portfolio: https://krishan13.vercel.app  
+- 📧 Email: krishankumarsah13@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/krishn13  
+- 💻 GitHub: https://github.com/krishhn13  
+- 🧠 LeetCode: https://leetcode.com/krishn13  
+
+---
+
+<p align="center"><b>Strong fundamentals. Clean execution. Long-term growth.</b></p>
