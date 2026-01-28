@@ -27,7 +27,7 @@ Data Structures & Algorithms, Object-Oriented Programming,
 DBMS, Operating Systems (Foundations)
 
 **Web & Tools**  
-HTML, CSS, REST APIs, Git, GitHub
+HTML, CSS, REST APIs, Git, GitHub, Docker
 
 ---
 
