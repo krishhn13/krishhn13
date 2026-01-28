@@ -62,7 +62,7 @@ HTML, CSS, REST APIs, Git, GitHub, Docker
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=krishhn13&theme=tokyonight" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=krishhn13" 
     alt="GitHub Streak Stats"
   />
 </p>
