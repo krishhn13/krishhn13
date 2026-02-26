@@ -2,7 +2,7 @@
 ### 🌐 **Portfolio:** https://krishan13.vercel.app  
 
 Software Engineering Undergraduate | Backend & DSA Focus  
-Chitkara University | Class of 2027  
+Chitkara University | Class of 2023 - 27  
 
 ---
 
