@@ -19,7 +19,7 @@ prioritizing correctness, maintainability, and long-term impact over shortcuts.
 ## Technical Skills
 
 **Programming Languages**  
- Java, JavaScript, SQL  
+ Java, Python, C, C++, JavaScript, SQL  
 
 **Core Computer Science**  
 Data Structures & Algorithms, Object-Oriented Programming,  
